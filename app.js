@@ -64,7 +64,7 @@ function generarNumeroSecreto(){                          //crea un numero rando
 
     if (listaNumerosSorteados.includes(numeroGenerado))   //verifica que no este en la matrix - genera true o false
       {
-          return generarNumeroSecreto();  //recursividad  //si esta ejecuta nuevamente la funcion para generar el numero aleatorio
+          return generarNumeroSecreto();  //recursividad. Se ejecuta nuevamente la funcion para generar el numero aleatorio
 
     } else {
 
@@ -73,18 +73,18 @@ function generarNumeroSecreto(){                          //crea un numero rando
       return numeroGenerado;                      // retorna el numero aleaorio
     }
 
-    //si el numero generado esta incluido en la lista
+    
      }
 }
 
 function reiniciJuego() {
 
-  // lipiar caja
-  limpiarCaja();
+  // lipiar caja de texto
+   limpiarCaja();
   //indicar mensaje de intervalo de numeros
   condicionesIniciales();
   //generar el numero aleatorio
-   // inicializar el numero de intentos
+  // inicializar el numero de intentos
    
 
   //deshabilitar el boton de nuevo juego
@@ -96,12 +96,12 @@ function reiniciJuego() {
 function condicionesIniciales(){
 
 asignarTextoElemento('h1',"Juego del número secreto");            // llamado a la funcion para cambio de titulos
-asignarTextoElemento('p',`Ingresa un número del 1 al ${numeroMaximo}`);
+asignarTextoElemento('p',`Ingresa un número del 1 al ${numeroMaximo}`); // llamado a la funcion para cambio parrafo
 
 NumeroSecreto = generarNumeroSecreto();
 intentos= 1;
 
-//console.log(NumeroSecreto);
+
 }
 
 
