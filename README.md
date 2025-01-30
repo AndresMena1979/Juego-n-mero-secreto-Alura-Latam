@@ -1,4 +1,4 @@
-![Hithub]([ align="center"](https://github.com/user-attachments/assets/47cfb696-1278-438a-8711-16b59e2a80b1)
+![Hithub]([ align="center"](https://th.bing.com/th/id/R.e9386ba37f675cf8ae4060a3e15d1579?rik=YaTVEQxfMv7MGg&riu=http%3a%2f%2frecursostic.educacion.es%2fnewton%2fweb%2fmateriales_didacticos%2ffyqnumerosecreto%2fimages%2fnumerosecreto_amarillo.jpg&ehk=pbU27heoAsHZz%2b4r696PBNVYmtZeeNwYu5E95zuEMtA%3d&risl=&pid=ImgRaw&r=0)
 )
 
 <h1 align="center"> Juego número Secreto </h1>
