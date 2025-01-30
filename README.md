@@ -2,4 +2,4 @@
 
 
 <h1 align="center"> Juego número Secreto </h1>
-<palign="center">Proyecto terminado del juego número secreto de Alura Latam, para los cursos de lógica de programacion</p>
+<p  align="center"> Proyecto terminado del juego número secreto de Alura Latam, para los cursos de lógica de programacion </p>
