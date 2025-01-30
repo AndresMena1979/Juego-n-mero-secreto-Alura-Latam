@@ -4,7 +4,8 @@
 <h1 align="center"> Juego número Secreto </h1>
 <p  align="center"> Proyecto terminado del juego número secreto de Alura Latam, para los cursos de lógica de programacion </p>
 
-\## 📁 Acceso al proyecto
+\## 📁 Acceso al Juego
+ https://andresmena1979.github.io/Juego-n-mero-secreto-Alura-Latam/
 
 
  <h4 align="center"> :construction: Archivo ReadMe en construcción :construction: </h4>
